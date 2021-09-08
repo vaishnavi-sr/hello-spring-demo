@@ -8,7 +8,7 @@ import java.util.Objects;
 
 @Controller
 @ResponseBody  //as response body annotation comes in each of the method
-@RequestMapping("hello")
+@RequestMapping("hellos")
 public class HelloController {
     //Handles request in path /hello
 //    @GetMapping("hello")
